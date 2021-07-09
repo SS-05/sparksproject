@@ -286,17 +286,13 @@ h5{
 @media(max-width:600px)
     
 {
-    #img-slide{
-        width:10%;
-        
-    }
     
-    #img-slide figure img{
+    #img-slide figure img
+    {
         width:10%;
         height:250px;
     }  
-    .vol img{
-        width:10%
+    
 }
 
  .image-slider h5{
