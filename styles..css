@@ -282,18 +282,23 @@ h5{
     width: 500%;
     animation: slide 20s infinite;
 }
-.carousel{
-    display:none;
-}
+
 
 @media(max-width:600px)
     
 {
     #img-slide
    {
-       display:none;
+       width:100%;
+       position:relative;
     }
-   
+   #img-slide figure img{
+       width:10%;
+       height:250px;
+    }
+    .vol img{
+        width:100;
+    }
 }
 
  .image-slider h5{
