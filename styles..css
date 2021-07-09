@@ -293,7 +293,7 @@ h5{
 {
    
    #img-slide figure img{
-      
+        width:100%;
        height:250px;
     }
     .vol img{
