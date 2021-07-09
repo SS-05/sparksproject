@@ -286,7 +286,11 @@ h5{
 @media(max-width:600px)
     
 {
-    
+    #img-slide
+    {
+        width:100%;
+        position:static;
+    }
     #img-slide figure img
     {
         width:10%;
