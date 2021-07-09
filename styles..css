@@ -2,11 +2,7 @@
     margin:0px;
     padding:0;
 }
-body
-{
-    width:100%;
-    overflow:hidden;
-}
+
 header
 {
     background:url(./pictures/imgg.png)rgba(32, 30, 26, 0.37);
@@ -272,6 +268,7 @@ h5{
 
 #img-slide{
     overflow: hidden;
+   
     
 }
 #img-slide figure img{
@@ -291,8 +288,12 @@ h5{
 @media(max-width:600px)
     
 {
-   
+   #img-slide{
+       position:static;
+       width:100%;
+    }
    #img-slide figure img{
+        
         width:100%;
        height:250px;
     }
