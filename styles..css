@@ -288,22 +288,26 @@ h5{
 @media(max-width:600px)
     
 {
-   #img-slide{
+   #img-slide
+    {
        position:static;
        width:100%;
     }
-   #img-slide figure img{
+   #img-slide figure img
+    {
         
         width:100%;
        height:250px;
     }
-    .vol img{
+    .vol img
+    {
         width:100%;
     }
    
 }
 
- .image-slider h5{
+ .image-slider h5
+{
     font-family:Arial, Helvetica, sans-serif;
     font-weight:bold;
     font-size:30px;
