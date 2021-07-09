@@ -307,7 +307,8 @@ h5{
     font-weight:bold;
     font-size:30px;
 }
-.testimonals h5{
+.testimonals h5
+{
     margin-top:50px;
     font-weight:bold;
     font-size:30px;
@@ -316,15 +317,13 @@ h5{
     
 
 }
-.testimonals{
+.testimonals
+{
     width:80%;
     text-align:center;
     margin:auto;
     padding-top:40px;
     font-size:18px;
-   
-    
-
 }
 
 .testimonals .row
