@@ -255,6 +255,17 @@ h5{
     
 }
 
+    
+@media(max-width:600px){
+   
+    .vol img
+    {
+        width:100%;
+    }
+   
+}
+
+
 #img-slide{
     overflow: hidden;
    
